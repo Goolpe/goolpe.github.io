@@ -39399,9 +39399,9 @@ k=t}return k},
 $C:"$3",
 $R:3}
 G.Ka.prototype={
-$1:function(a){return new T.bC(C.vk,U.Vx(C.c.L("assets/",a)),null)}}
+$1:function(a){return new T.bC(C.vk,U.Vx(C.c.L("https://raw.githubusercontent.com/Goolpe/portfolio/master/assets/",a)),null)}}
 G.Kb.prototype={
-$1:function(a){return new T.bC(C.nC,U.Vx(C.c.L("assets/",a)),null)}}
+$1:function(a){return new T.bC(C.nC,U.Vx(C.c.L("https://raw.githubusercontent.com/Goolpe/portfolio/master/assets/",a)),null)}}
 G.K9.prototype={
 $1:function(a){var t=null,s=S.n2(new F.bL(C.o,C.o,new Y.dL(this.a.b==a?C.k:C.j,1,C.I),C.o),t,t,t,t,t,C.X)
 return D.H_(t,M.cr(t,new T.bC(C.jO,L.bx(a.c.toUpperCase(),A.by(t,t,t,t,t,t,t,t,t,t,t,24,t,t,t,t,!0,t,t,t,t,t,t),t),t),t,t,s,t,new V.Y(16,25,16,0),new V.Y(4,4,4,4),t),C.ac,!1,t,t,t,t,t,t,t,t,t,t,new G.K8(this.b,a),t,t,t,t,t)}}
