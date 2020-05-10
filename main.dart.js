@@ -39291,11 +39291,11 @@ G:function(a){var t=null,s=F.c_(a,!1)
 if(s.gmK(s)===C.dW)s=new T.bC(new V.Y(24,0,24,0),B.oo(this.uO(0,!0),t,new L.oS(t),C.n,!0),t)
 else{s=F.c_(a,!1).a
 s=M.cr(t,T.cN(H.b([T.cN(this.uO(0,!1),C.N,C.R),L.bx("COPYRIGHT \u24b8 2020 | Arthur Khabirov".toUpperCase(),t,t)],u.E),C.N,C.kZ),t,t,t,s.b,t,new V.Y(24,50,24,50),t)}return s},
-uO:function(a,b){var t=null,s="https://docs.google.com/document/d/1EerYQ8yHMnfGubLpffNUxlIUeYc71nFR2f4HPdECB4E/edit?usp=sharing",r=u.E,q=H.b([],r)
-q.push(L.bx("About me".toUpperCase(),A.by(t,t,t,t,t,t,t,t,t,t,t,b?20:40,t,t,t,t,!0,t,t,t,t,t,t),C.cs))
-q.push(T.cN(H.b([new T.bC(C.vf,L.bx("Hi, I'm Arthur.\n".toUpperCase(),A.by(t,t,t,t,t,t,t,t,t,t,t,40,t,C.as,t,t,!0,t,t,t,t,t,t),t),t),M.cr(t,L.bx("Passionate Mobile & Web Developer with 2 years professional experience.\n\nMy way started in Ufa, Russia, I finished Ufa State Petroleum University with Bachelor of Applied Informatics,\nand then decided, that I want to create products with latest techonlogies.\n\nPrimarily programming in Dart (Flutter), Java, Kotlin, Javascript (React)\n\nI\u2019m native Russian speaker with intermediate English and basic knowledge of German. Currently live in Saint-Petersbug, Russia.\nIf you have any questions or would like to further discuss my qualifications, please don't hesitate to contact me.",A.by(t,t,t,t,t,t,t,t,"Monda",t,t,t,t,t,t,t,!0,t,t,t,t,t,t),t),t,t,t,t,t,t,t),new T.bC(C.ve,T.cN(H.b([new M.dy(s,C.BW,"Get My Resume",C.jN,t),new M.dy(s,C.js,"Github",C.jN,t),new M.dy(s,C.q1,"LinkedIn",C.jN,t)],r),C.aH,C.R),t)],r),C.aH,C.R))
-if(b)q.push(new T.bC(C.vg,L.bx("COPYRIGHT \u24b8 2020 | Arthur Khabirov".toUpperCase(),t,t),t))
-return q}}
+uO:function(a,b){var t=null,s=u.E,r=H.b([],s)
+r.push(L.bx("About me".toUpperCase(),A.by(t,t,t,t,t,t,t,t,t,t,t,b?20:40,t,t,t,t,!0,t,t,t,t,t,t),C.cs))
+r.push(T.cN(H.b([new T.bC(C.vf,L.bx("Hi, I'm Arthur.\n".toUpperCase(),A.by(t,t,t,t,t,t,t,t,t,t,t,40,t,C.as,t,t,!0,t,t,t,t,t,t),t),t),M.cr(t,L.bx("Passionate Mobile & Web Developer with 2 years professional experience.\n\nMy way started in Ufa, Russia, I finished Ufa State Petroleum University with Bachelor of Applied Informatics,\nand then decided, that I want to create products with latest techonlogies.\n\nPrimarily programming in Dart (Flutter), Java, Kotlin, Javascript (React)\n\nI\u2019m native Russian speaker with intermediate English and basic knowledge of German. Currently live in Saint-Petersbug, Russia.\nIf you have any questions or would like to further discuss my qualifications, please don't hesitate to contact me.",A.by(t,t,t,t,t,t,t,t,"Monda",t,t,t,t,t,t,t,!0,t,t,t,t,t,t),t),t,t,t,t,t,t,t),new T.bC(C.ve,T.cN(H.b([new M.dy("https://docs.google.com/document/d/1EerYQ8yHMnfGubLpffNUxlIUeYc71nFR2f4HPdECB4E/edit?usp=sharing",C.BW,"Get My Resume",C.jN,t),new M.dy("https://github.com/Goolpe",C.js,"Github",C.jN,t),new M.dy("https://www.linkedin.com/in/goolpe",C.q1,"LinkedIn",C.jN,t)],s),C.aH,C.R),t)],s),C.aH,C.R))
+if(b)r.push(new T.bC(C.vg,L.bx("COPYRIGHT \u24b8 2020 | Arthur Khabirov".toUpperCase(),t,t),t))
+return r}}
 D.tN.prototype={
 G:function(a){var t=null,s=new Y.dL(C.k,1,C.I),r=new P.aN(16,16)
 r=S.n2(new F.bL(s,s,s,s),new K.b5(r,r,r,r),t,t,t,t,C.X)
