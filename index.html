@@ -20,7 +20,7 @@
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Flutter Engineer with experience in designing, developing and delivering high-performance, scalable IOS, Android and Web applications.">
   <meta property="og:title" content="Arthur Khabirov" />
-  <meta property="og:url" content="https://goolpe.github.io/" />
+  <meta property="og:url" content="Arthur Khabirov - Flutter Developer" />
   <meta property="og:description" content="Flutter Engineer with experience in designing, developing and delivering high-performance, scalable IOS, Android and Web applications." />
   <meta property="og:type" content="portfolio" />
   <meta property="og:image" content="https://raw.githubusercontent.com/Goolpe/goolpe.github.io/master/assets/assets/images/other/picture.png" />
@@ -34,17 +34,30 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
+  <!-- Style -->
+  <link rel="stylesheet" type="text/css" href="styles.css">
+
   <title>Arthur Khabirov - Experienced Flutter Developer</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '1657895429';
+    var serviceWorkerVersion = '2067499507';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
+  <div class="outer-circle">
+    <div class="inner-circle"></div>
+  </div>
+  <!-- Ensure first time loading progress is gone after app loads -->
+  <script>
+    window.addEventListener("flutter-first-frame", function() {
+        var element = document.getElementsByClassName("loading");
+        element[0].parentNode.removeChild(element[0]);
+    });
+  </script>
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js

@@ -10366,7 +10366,7 @@ _.z=k},
 MG:function MG(){},
 azb(a){var s=A.cQ(a)
 s=s==null?null:s.c
-return A.TI(B.nS,B.hJ,B.ei,s==null?1:s)},
+return A.TI(B.hI,B.hJ,B.ei,s==null?1:s)},
 MN:function MN(a,b){this.a=a
 this.b=b},
 t9:function t9(){},
@@ -40099,7 +40099,7 @@ s.aR()}}
 A.Aa.prototype={
 E(){return"ButtonTextTheme."+this.b}}
 A.rb.prototype={
-gco(a){switch(0){case 0:case 1:return B.nS}},
+gco(a){switch(0){case 0:case 1:return B.hI}},
 gcr(a){switch(0){case 0:case 1:return B.UK}},
 k(a,b){var s=this
 if(b==null)return!1
@@ -62652,7 +62652,7 @@ A.nh(A.jf(s,0,null))},
 $S:0}
 A.KZ.prototype={
 O(a){var s=null,r=A.j8("Want to work together?",A.aX(a).p3.w,s,s,s),q=A.aX(a).p3.w,p=t.p
-return A.e_(s,A.agG(B.T,new A.en(B.hI,A.jM(A.a([r,new A.en(B.G5,A.awp(!1,A.j8("gooolpe@gmail.com",q==null?s:q.YB(B.az),s,s,s),B.r,s,s,s,s,s,new A.a8m(),s,s),s),A.ahF(B.e0,A.a([A.ahU(A.ER("assets/images/icons/linkedin.webp",20),B.a_u,new A.a8n()),A.ahU(A.ER("assets/images/icons/github.webp",24),B.a_s,new A.a8o()),A.ahU(A.ER("assets/images/icons/pdf.webp",24),B.a_t,new A.a8p(this))],p),0,0)],p),B.ba,B.fz),s),B.hk),B.r,B.k,s,s,this.d,s,s,this.c)}}
+return A.e_(s,A.agG(B.T,new A.en(B.nS,A.jM(A.a([r,new A.en(B.G5,A.awp(!1,A.j8("gooolpe@gmail.com",q==null?s:q.YB(B.az),s,s,s),B.r,s,s,s,s,s,new A.a8m(),s,s),s),A.ahF(B.e0,A.a([A.ahU(A.ER("assets/images/icons/linkedin.webp",20),B.a_u,new A.a8n()),A.ahU(A.ER("assets/images/icons/github.webp",24),B.a_s,new A.a8o()),A.ahU(A.ER("assets/images/icons/pdf.webp",24),B.a_t,new A.a8p(this))],p),0,0)],p),B.ba,B.fz),s),B.hk),B.r,B.k,s,s,this.d,s,s,this.c)}}
 A.a8m.prototype={
 $0(){return A.nh(A.amS("gooolpe@gmail.com","mailto"))},
 $S:0}
@@ -62680,7 +62680,7 @@ O(a){var s=null,r=B.b.bg(this.c," \u2022 "),q=this.d?-15:15
 return A.e_(s,new A.ou(" \u2022 "+r,A.aX(a).p3.a,q,A.amB(B.e5),A.amB(B.e5),s),B.r,s,s,s,85,B.G9,s,s)}}
 A.oE.prototype={
 O(a){var s,r,q=null,p=A.ay(B.d.bc(178.5),0,0,0),o=new A.xc(p,q),n=new A.xc(B.k,q)
-p=A.TH(q,q,o,new A.bz(20,t.Ve),q,q,n,q,q,q,q,q,new A.MK(B.k),new A.bz(B.hI,t.Ak),q,new A.bz(B.BK,t.kU),q,q,q,q,new A.bz(q,t.wG),q)
+p=A.TH(q,q,o,new A.bz(20,t.Ve),q,q,n,q,q,q,q,q,new A.MK(B.k),new A.bz(B.nS,t.Ak),q,new A.bz(B.BK,t.kU),q,q,q,q,new A.bz(q,t.wG),q)
 s=A.kx(A.ER(this.c,24),24,24)
 r=A.j8(this.d,q,q,q,q)
 return new A.MO(this.e,q,q,q,p,B.r,q,!1,q,new A.MP(r,s,q),q)}}
@@ -65703,9 +65703,9 @@ B.G7=new A.b6(0,32,0,32)
 B.G8=new A.b6(0,40,0,40)
 B.G9=new A.b6(0,8,0,8)
 B.Ga=new A.b6(12,6,12,6)
-B.nS=new A.b6(16,0,16,0)
+B.hI=new A.b6(16,0,16,0)
 B.Gb=new A.b6(16,0,16,50)
-B.hI=new A.b6(16,16,16,16)
+B.nS=new A.b6(16,16,16,16)
 B.Gc=new A.b6(20,0,0,0)
 B.Gd=new A.b6(40,40,40,40)
 B.ei=new A.b6(4,0,4,0)
