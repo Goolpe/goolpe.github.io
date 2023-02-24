@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "009c9e65172e010890f7f65fde438006",
-"index.html": "bde4451cdd4c72075a70797c0e9d8311",
-"/": "bde4451cdd4c72075a70797c0e9d8311",
+"index.html": "bcd52ca95055b682e01f29038958a739",
+"/": "bcd52ca95055b682e01f29038958a739",
 "styles.css": "c7b17ad84259c7affdd5075b334b654b",
 "main.dart.js": "01ff411e3de50c78a84fdfbca99fb195",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
@@ -28,7 +28,7 @@ const RESOURCES = {
 "assets/assets/images/big/rostock.webp": "b889e60cf4ad9f2ce4b074a8a8c2a11c",
 "assets/assets/images/other/artur.webp": "453c268c082ddababffe5f9bda9a52c2",
 "assets/assets/images/other/background.webp": "1c5c819debb1cdeb35406044e6590dd2",
-"assets/assets/images/other/picture.png": "eee957efc724440d6680a11ca6518242",
+"assets/assets/images/other/picture.png": "008d577994de57ca5fb2c1128f45b0da",
 "assets/assets/images/icons/linkedin.webp": "89c4e54041fb6512b8d366035c472f1e",
 "assets/assets/images/icons/githubwhite.webp": "a23bdb23e0bfe802ba96dbf1b4881c6d",
 "assets/assets/images/icons/github.webp": "9baf7632efd80f15960d3bbacd58985a",
